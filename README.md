@@ -1,12 +1,12 @@
-## Hi there 👋, my name is Jai Chouhan
+## Hi there 👋
 
-I'm a software developer from London, United Kingdom 🌎. I'm passionate about Java, Spring Boot, Python, cloud technologies and writing clean, testable software 💻. 
+My name is Jai Chouhan and I'm a software developer from London, United Kingdom 🌎. I'm passionate about solving problems using Java, Spring Boot, Python, AWS and many more technologies💻. 
 
 ---
 
 ## 🙋‍♂️ Personal summary
 
-I'm a reliable and detail-driven software engineer with **9+ years of experience** building robust backend systems, primarily in the **financial services, payments and professional services**.  
+I'm a reliable and detail-driven software engineer with **9+ years of experience** building robust backend systems, primarily in the **financial services, payments and professional services industries**.  
 
 I have a proven track record of delivering **scalable, cloud-native solutions** using **Java, Spring, AWS, relational databases, Docker, Terraform and Kubernetes**.  
 
@@ -48,10 +48,11 @@ I have strong **computer science fundamentals** and a passion for **clean, well-
 
 | Certification | Course |
 |---------------|-------|
-| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge) | AWS Certified Solutions Architect |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge) | Java SE 11 Developer |
-| ![SAFe](https://img.shields.io/badge/SAFe-2BA6CB?style=for-the-badge) | SAFe Agilist |
-| ![Scrum](https://img.shields.io/badge/Scrum-000000?style=for-the-badge) | Scrum Master |
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge) | AWS Certified Cloud Practitioner |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge) | Java Developer |
+| ![SAFe](https://img.shields.io/badge/SAFe-2BA6CB?style=for-the-badge) | SAFe for Teams |
+| ![SAFe](https://img.shields.io/badge/SAFe-2BA6CB?style=for-the-badge) | SAFe Product Owner/ Product Manager |
+| ![Scrum](https://img.shields.io/badge/Scrum-000000?style=for-the-badge) | Scrum Master I |
 
 ---
 
